@@ -18,8 +18,8 @@
         "sort-packages": true
     },
     "require": {
-    	"php": "^7.1",
-        "jeremykendall/php-domain-parser": "^5"
+    	"php": "^7.0",
+        "jeremykendall/php-domain-parser": "5.*"
     },
     "require-dev": {
         "doctrine/coding-standard": "^5.0",
